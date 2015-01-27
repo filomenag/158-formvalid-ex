@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>158 -exercicio validacao</title>
+  <link rel="shortcut icon" href="favicon.ico" />  
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <form id="vform" action="index.html" method="" accept-charset="utf-8">
+  	<label for="localidade">localidade</label>
+  	<input id="localidade" type="text" name="localidade" value="">
+    
+  	
+  	<label for="email1">Email</label>
+    <input id="email1" type="email" name="email1" value=""><br>
+    
+    <label for="email2">Email</label>
+    <input id="email2" type="email" name="email2" value=""><br>
+    
+  
+    <input type="submit">
+  
+  </form>	
+
+
+
+
+  <script src="jquery.js"></script>
+  <script src="jquery-validation/dist/jquery.validate.min.js"></script>
+
+  <script>
+    $("#vform").validate(
+      {
+        rules:{
+          localidade: "required",
+
+          password: {
+            required: true,
+            minlength: 5,
+            
+          },
+          email_confirm: {
+            required: true,
+            minlength: 5,
+           
+
+                    },
+            omeuemail: {
+              required: true,
+              email: true
+
+          }
+        },
+
+        messages:{
+          localidade:'a localidade e obrigatorio',
+          password:{
+            required: "email obrigatorio",
+          },
+          email_confirm: {
+            required: "confirma o seu email",
+            minlength: jQuery.validator.format("insira pelo menos {5} characters"),
+            equalTo: "devem ser iguais"
+
+
+                    },
+
+
+          omeuemail: "coloque o email valido",
+              
+        }
+      }
+    );
+        
+</script>
+
+
+
+      </body>
+      </html>

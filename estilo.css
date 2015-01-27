@@ -1,0 +1,9 @@
+body,
+input{
+	font-size: 2em;
+	
+}
+.password-erro,
+.nome-erro{
+	display: none;
+}

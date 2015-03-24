@@ -1,0 +1,8 @@
+UFCD-0158:JAVA SCRIPT
+CARGA HORÁRIA: 50 Horas
+FORMADOR: Francisco Ribeiro
+FORMANDA: Filomena Melo
+                                           REFLEXÃO
+
+Como todas as linguagens de programação, esta também manifestou-se de uma forma muito complexa de entender. Nesta UFCD pudemos caracterizar e executar com correção as operações em Java Script, aprendemos também princípios básicos de Java Script, utilização e armazenamento de valores, a utilizar loops, utilização de janelas e frames, outros recursos de Java Script e ferramentas para desenvolver Java Script. 
+Nesta UFCD realizamos vários trabalhos como por exemplo armazenamento de valores, trabalho com páginas da Web, utilização de janelas e frames, obtenção de dados com formulários, etc. Nesta UFCD fizemos vários projetos, no inicio dei o nome de “fotos” onde as fotos aumentavam e diminuíam, outro projeto como o “form-valid” onde tínhamos que validar as grelhas, projetos com o “formvalid-ex”, “inicio” serviam para testar a nossa aprendizagem, no projeto “slidrs” colocamos imagens com botões para que estas passassem para a frente, concluímos com o “bootstrap” onde as imagens passassem automaticamente umas pelas outras. No final desta UFCD fizemos um último projeto que dei o nome de “cinema” onde coloquei imagens e botões, este projeto teve como finalidade uma agência de viagens onde colocamos tudo o que demos nesta UFCD. No final colocámos tudo no github. No final de tudo isto achei a matéria um pouco difícil, mas com a ajuda do formador até nos desenrascamos. A nível profissional acho que não me vai trazer grandes valias mas a nível pessoal gostei muito de aprender pois fiz coisas que nunca tinha feito e que desconhecia. Quanto ao nosso formador ele é muito fixe tomara que fossem todos como ele.
